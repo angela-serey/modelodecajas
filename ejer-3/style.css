@@ -1,0 +1,83 @@
+
+.container {
+ position: relative;
+ float: left;
+ margin-left: 70px;
+
+}
+
+.container_info{
+    border: 1px solid black;
+}
+.container_rojo{
+    width: 400px;
+    height: 240px;
+    background: red;
+    position: relative;
+    
+}
+
+.amarillo {
+    width: 400px;
+    height: 110px;
+    background: yellow;
+    position: absolute;
+    top: 60px;
+}
+
+.blanco{
+    width: 400px;
+    height: 15px;
+    background: white;
+    position: absolute;
+    top: 110px;
+}
+
+.blanco2{
+    width: 15px;
+    height: 250px;
+    position: absolute;
+    top: 0px;
+    background: white;
+    left: 90px;
+}
+.blanco3{
+    width: 310px;
+    height: 81px;
+    position: absolute;
+    top: 80px;
+    background: white;
+    left: 91px;
+}
+
+.verde{
+    width: 310px;
+    height: 80px;
+    position: absolute;
+    top: 0px;
+    background: green;
+    left: 91px;
+}
+
+.negro{
+    width: 310px;
+    height: 80px;
+    position: absolute;
+    top: 161px;
+    background: black;
+    left: 91px;
+}
+
+.caja{
+    width: 400px;
+    height: 240px;
+}
+.circulo{
+    width: 90px;
+    height: 90px;
+    background: red;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    border-radius: 50px;
+}
